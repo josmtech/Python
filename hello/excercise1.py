@@ -1,6 +1,6 @@
 #checking in a new patient into the system
 
-#declaring variables
+#declaring variables 
 patient_first_name = "John"
 patient_last_name = "Smith"
 age = 20
